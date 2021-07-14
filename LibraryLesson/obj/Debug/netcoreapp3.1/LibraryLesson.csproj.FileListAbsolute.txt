@@ -1,0 +1,9 @@
+C:\repos\LibraryLesson\LibraryLesson\bin\Debug\netcoreapp3.1\LibraryLesson.deps.json
+C:\repos\LibraryLesson\LibraryLesson\bin\Debug\netcoreapp3.1\LibraryLesson.dll
+C:\repos\LibraryLesson\LibraryLesson\bin\Debug\netcoreapp3.1\LibraryLesson.pdb
+C:\repos\LibraryLesson\LibraryLesson\obj\Debug\netcoreapp3.1\LibraryLesson.csprojAssemblyReference.cache
+C:\repos\LibraryLesson\LibraryLesson\obj\Debug\netcoreapp3.1\LibraryLesson.AssemblyInfoInputs.cache
+C:\repos\LibraryLesson\LibraryLesson\obj\Debug\netcoreapp3.1\LibraryLesson.AssemblyInfo.cs
+C:\repos\LibraryLesson\LibraryLesson\obj\Debug\netcoreapp3.1\LibraryLesson.csproj.CoreCompileInputs.cache
+C:\repos\LibraryLesson\LibraryLesson\obj\Debug\netcoreapp3.1\LibraryLesson.dll
+C:\repos\LibraryLesson\LibraryLesson\obj\Debug\netcoreapp3.1\LibraryLesson.pdb

@@ -1,0 +1,16 @@
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.exe
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.deps.json
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.runtimeconfig.json
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.runtimeconfig.dev.json
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.dll
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.pdb
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\LibraryLesson.dll
+C:\repos\LibraryLesson\TestLibrary\bin\Debug\netcoreapp3.1\LibraryLesson.pdb
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.csprojAssemblyReference.cache
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.AssemblyInfoInputs.cache
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.AssemblyInfo.cs
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.csproj.CoreCompileInputs.cache
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.csproj.CopyComplete
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.dll
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.pdb
+C:\repos\LibraryLesson\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.genruntimeconfig.cache
